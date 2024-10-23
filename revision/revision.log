@@ -1,2 +1,4 @@
 - Convert all srts into tsv
 - Create new project upload audio
+
+- Yacouba did further revision on the .tsv transcription files (removing some unwanted characters, consecutives tabs and spacing errors)

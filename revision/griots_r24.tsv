@@ -54,7 +54,7 @@
 238555	242333	Nin ye n fakɔrɔba den ye, o tun te yen o wagati.	C'est le fils de mon oncle, cela n'existait pas à ce moment-là.
 242444	245611	Nin ye ne dɔgɔkɛ den ye, o tun tɛ yen o wagati.	C'est le fils de mon petit frère, cela n'existait pas à ce moment-là.
 245777	248694	Bɛɛ lajɛlen tun ye kulu kelen de ye.	Tout le monde était dans un seul groupe.
-248861	253499	N'i ko ko du, kulu kelen pe de tun don, fila tɛ.	Quand tu dis "famille", c'était un seul groupe, pas deux.
+248861	253499	N'i ko ko du, kulu kelen pe de tun don, fila tɛ.	Quand tu dis famille, c'était un seul groupe, pas deux.
 253805	256499	Aw bɛ ɲɔgɔn lamɛn balimaya la.	Vous, vous écoutez, à cause de la fraternité.
 256611	261055	Aw bɛ ɲɔgɔn lamɛn sinjiya la, aw bɛ ɲɔgɔn lamɛn kabila kɔnɔna na.	Vous vous écoutez dans la société.
 261166	269500	O dutigi cɛkɔrɔba n'o de ye du dence fɔlɔ ye sisan, i b'a sɔrɔ ale de bɛna ko caman ɲɛnabɔ.	Le chef de la famille résout beaucoup de choses.
@@ -144,7 +144,7 @@
 654222	657666	Anw baw, anw faw de b'u mara.	Nos pères dirigent nos mères.
 657833	662972	Anw minnu ye dɔgɔmusow ye, ni kɔrɔkɛ b'an na, anw kɔrɔkew fana b'an mara.	Nous les sœurs, nos grands frères nous dirigent aussi.
 663138	665138	Mara tun be daminɛ du kɔnɔ ten de.	L'éducation commençait dans la famille comme ça
-663698	667248	I b'a sɔrɔ dukɔnɔna na <	On voit dans la famille<
+663698	667248	I b'a sɔrɔ dukɔnɔna na 	On voit dans la famille
 665778	670128	Ne filɛbaga ni ne lamɛnbagaw.	Mes spectateurs et mes auditeurs.
 668178	670918	Unhun.	Oui.
 668971	677285	I b'a sɔrɔ anw fɛ yen nɔ, muso o muso n'a bɛ na, a bɛɛ ni a ka fiɲɛ bɛ na.	On voit que chez, toute femme qui arrive, elles viennent toutes avec leur jarre.
@@ -167,7 +167,7 @@
 727121	729641	Unhun.	Oui.
 727680	734317	Ni aw ye dumuni kɛ ɲɔgɔn fɛ tasakelen kɔnɔ, anw b'a fɔ aw tin bɛ don ɲɔgɔn na. 	Si vous mangez ensemble dans la même tasse, nous disons que cela crée de la compassion entre vous.
 732887	738091	Marakaw tun ka jɛ ka ko kɛ ni y'a dɔ ye.	Que les soninkés fassent quelque chose ensemble, ça, c'est l'une d'entre elles.
-736940	740370	An ka furu fana <	Notre mariage aussi <
+736940	740370	An ka furu fana 	Notre mariage aussi 
 739380	744566	U b'a fɔ ko maraka tɛ sɔn a den ka bɔ ka taa yɔrɔ wɛrɛ.	Ils disent que les soninkés n'acceptent pas que leurs enfants se marient ailleurs.
 742803	745843	Ayi tiɲɛ tɛ.	Non, ce n'est pas vrai.
 744083	747197	Awɔ n'bɛ o fɔ.	Oui, je le dis.
@@ -175,7 +175,7 @@
 749220	753944	Ko an tɛ fɛ an ka nafolo de ka bɔ kɛnɛma.	Que nous ne voulons pas que notre fortune aille ailleurs.
 752047	756183	Nafolo kɛ-ko tɛ a bɛ ye.	Tout n'est pas question de fortune.
 754703	760442	Ne filɛbaga ni ne lamɛnbagaw, nafolo ko tɛ a bɛ ye.	Mes spectateurs et auditeurs, tout n'est pas question d'argent.
-758638	762100	A kun tun ye min ye <	La raison était que<
+758638	762100	A kun tun ye min ye 	La raison était que
 760820	769307	Ne ye lamɔ min sɔrɔ, ni ne dila ne fancininden ma, o lamɔ kelen bɛ to an ni ɲɔgɔn cɛ.	L'éducation que j'ai reçue, si on me donne au fils de mon oncle, cette éducation va rester.
 767607	771977	An tun tɛ fɛ an ka lamɔ de ka tiɲɛ.	Nous ne voulions pas que notre éducation soit détruite.
 770077	775242	Anw tun bɛ balimafuru kɛ, ka da o de kan.	C'est pour cette raison que nous avons fait un mariage endogène.
@@ -187,7 +187,7 @@
 792495	796038	I bɛ taa bɔlɔn de kɔnɔ.	Tu vas dans la rue.
 794870	798813	Ni dɔw ko ko kinkɔnɔna.	D'autres disent le quartier.
 797108	800825	Sigiɲɔgɔnya de bɛ yen.	Il y a du voisinage.
-799125	802258	Fɔlɔ fɔlɔ la <	Avant-avant <
+799125	802258	Fɔlɔ fɔlɔ la 	Avant-avant 
 800628	806855	E ka du ani ne ka du, a bɛ tun ye du kelenpe  de ye.	Ta famille et ma famille, c'était une seule famille.
 804858	807581	Jaati.	Exacte.
 805635	809043	Mara bɛɛ tun ye kelen ye.	L'éducation était la même.
@@ -197,9 +197,9 @@
 819685	824341	Nin ye ne sigiɲɔgɔn den ye, o kuma tɛ fɔ yen.	Un tel est l'enfant de mon voisin, il n'est pas question.
 822651	826012	Duw bɛɛ ye kelen ye.	Toutes les familles sont les mêmes.
 824222	830828	Filen kelen kelenpe kɔnɔ kisɛ, sigida tun ye o de ye.	Le quartier était comme les graines à l'intérieur d'une calebasse.
-830101	833682	Ni ne ye kojugu kɛ <	Si je fais quelque chose de grave <
-831942	835763	N'filɛbaga ani lamɛnbagaw.<	Mes spectateurs et auditeurs<
-834163	837709	Ni ne ye kojugu kɛ sisan <	Si je fais quelque chose de grave maintenant <
+830101	833682	Ni ne ye kojugu kɛ 	Si je fais quelque chose de grave 
+831942	835763	N'filɛbaga ani lamɛnbagaw.	Mes spectateurs et auditeurs
+834163	837709	Ni ne ye kojugu kɛ sisan 	Si je fais quelque chose de grave maintenant 
 836183	839633	Ne y'a kɛ bɔlɔn de kɔnɔ.	Je l'ai fait dans la rue.
 838253	844238	Ne bɛ n'fafilan sɔrɔ yen a bɛ komi n'bɛ se ka n'ba filan sɔrɔ yen.	J'ai là-bas un camarade d'âge de mon père tout comme je peux avoir là-bas une camarade d'âge de ma mère.
 842666	846742	A bɛ se ka kɛ n'bɛ n'kɔrɔ filan sɔrɔ yen.	Il est possible que puisse avoir un camarade d'un frère.
@@ -212,7 +212,7 @@
 865977	868667	Unhun ?	Ah bon ?
 866695	870178	Ayi i tɛ se ka don n'o kasi ye.	Non, tu ne peux pas rentrer avec ces pleurs.
 868364	874783	N'i donna n'o kasi, i bɛ taa ɲinika de k'i bɛ kasi la muna.	Si tu rentres avec ces pleurs, on te demande pourquoi tu pleures.
-873458	878351	E bɛ kasi la min na, ni e ye o fɔ<	Si tu dis la raison pour laquelle tu pleures<
+873458	878351	E bɛ kasi la min na, ni e ye o fɔ	Si tu dis la raison pour laquelle tu pleures
 876841	882188	Ko fa karisa de ye ne bugɔ, ko ne ye nin ko kɛ.	Qu'un tel père m'a frappé parce que j'ai fait une telle chose.
 880822	884483	Fa karisa tun tɛ taa ɲinika woo.	On ne posait pas la question au père en question.
 882796	886871	Gosili wɛrɛ de tun bi fara i ka gosili kan.	On ajoutait un autre châtiment à ton châtiment.
@@ -229,7 +229,7 @@
 901101	904349	Ni o ye lamɔ ye.	Qu'est l'éducation.
 902656	905382	Saba.	Trois.
 904040	907888	Mara bɛna kɛ sigiyɔrɔma saba ye.	L'éducation va devenir trois étapes.
-906278	909868	O sigiyɔrɔma saba <	Ces trois étapes <
+906278	909868	O sigiyɔrɔma saba 	Ces trois étapes 
 908258	911683	I bɛ taa a sɔrɔ yɔrɔ jumɛn ?	Tu les verras à quel niveau ?
 910293	918012	N'i sela san wɔɔrɔ, san wolonwula, san segin.	Quand on atteint six, sept, huit ans.
 916137	920326	U bɛ taa i tɔgɔ sɛbɛn kalanyɔrɔ dɔ la.	Ils vont t'inscrire dans une école.
@@ -237,8 +237,8 @@
 921504	927563	A kɛra nazarakalan ye, a kɛra bulonkɔnɔkalan ye.	Que ça soit une étude européenne ou une étude coranique.
 925973	929428	Ni an ko ko morikalan.	Qu'on appelle l'école coranique.
 928467	931448	I bɛ taa don o la.	Tu vas t'inscrire là-bas.
-930497	934103	Ni i taara don kalanyɔrɔ la<	Si tu t'inscris à l'école <
-932773	936647	i bɛ taa di ɛkɔli karamɔgɔ min ma<	L'enseignant à qui on va te confier <
+930497	934103	Ni i taara don kalanyɔrɔ la	Si tu t'inscris à l'école 
+932773	936647	i bɛ taa di ɛkɔli karamɔgɔ min ma	L'enseignant à qui on va te confier 
 935197	939938	A wajibiyalen do a k'i mara.	Il est obligatoire qu'il t'éduque.
 938681	942113	Kalan ye mara de ye.	L'apprentissage, c'est l'éducation.
 940472	944155	Kalan ye dɔnniyaɲini de ye.	L'apprentissage, c'est la recherche du savoir.
@@ -266,19 +266,19 @@
 1025463	1031768	Musomannin kelen o kelen i b'a sɔrɔ i bɛ kalifa kamalennin kelen na.	Chaque fille est confiée à un garçon.
 1030368	1033945	I bɛ to o ka mara kɔnɔ.	Tu restes sous la garde de celui-ci.
 1032108	1035997	Kana fo ko an fa ni anw baw tɛ yen.	Ne pense pas que nos pères et nos mères ne sont pas là.
-1034138	1039090	Aw bɛ tulonkɛyɔrɔ la ni i ye juguma min kɛ<	Si vous êtes dans le lieu de loisirs, la mauvaise chose que tu fais <
+1034138	1039090	Aw bɛ tulonkɛyɔrɔ la ni i ye juguma min kɛ	Si vous êtes dans le lieu de loisirs, la mauvaise chose que tu fais 
 1037638	1045235	I filankɛ, i kalifa la min ma, ni o y'i terikɛ ye, o b'a yira i la ka fɔ i ye nin kɛ a ma ɲɛ.	Ton camarade d'âge à qui on t'a confié qui est ton ami te montre que tu as fait ça et ce n'est pas bien.
 1043360	1047071	Kana segin nin kan tuguni.	Ne refais plus ça.
 1045258	1049046	A bɛ ɲɔgɔn mara ten de.	Vous, vous accompagnez ainsi.
 1047258	1051708	O tɛ mara kɛlen ye sigiyɔrɔma joli ye ?	L'éducation devient combien d'étapes ?
 1050213	1053462	Naani.	Quatre.
-1051770	1055520	Ni aw ye o kɛ sisan<	Si vous faites ça maintenant<
+1051770	1055520	Ni aw ye o kɛ sisan	Si vous faites ça maintenant
 1054060	1059128	Mara bɛ segin, i bɛ don du kɔnɔ n'o ye lamɔ ye.	L'éducation revient, tu rentres à la maison.
 1057602	1060756	I lamɔna ka ɲɛ.	Tu as été bien éduquée.
 1059606	1067261	I si nana taa se, san tanniwɔɔrɔ, san tanniwolonwula.	Tu as atteint seize à dix-sept ans.
 1065581	1069424	An marakadenw bɛ furu o de la.	Nous les enfants soninkés, nous marions à cet âge.
 1067894	1073300	Ni min ye san tannisegin sɔrɔ u b'a fɔ ko o mɛnna.	Celle qui atteint dix-huit ans, on dit qu'elle a pris du temps.
-1072220	1077908	N'i ye san tanniwɔɔrɔ, ka san tanniwolonwula sɔrɔ<	Quand tu atteins seize et dix-huit ans<
+1072220	1077908	N'i ye san tanniwɔɔrɔ, ka san tanniwolonwula sɔrɔ	Quand tu atteins seize et dix-huit ans
 1076009	1079488	Mun de bɛna ŋaniya i ye sisan ? 	Qu'est-ce qui va être prévu maintenant ?
 1077788	1082573	Denmusoman, an k'a don furu la.	Mettons la fille en mariage.
 1080471	1083471	Unhun.	Oui.
@@ -287,13 +287,13 @@
 1085722	1089333	I tɛ bɔ kɛnɛma tuma dɔw.	Tu ne sors pas souvent dehors.
 1088232	1095128	I b'a sɔrɔ i bɛ furu i fakɔrɔba den ma walima i bɛ furu i fanincinin den ma.	Tu peux être mariée à l'enfant de ton oncle.paternel.aîné ou à l'enfant de ton oncle paternel cadet
 1093708	1098085	Walima i bɛ furu i tɛnɛmuso den ma.	Ou tu peux être mariée au fils de ta tante  paternelle
-1096375	1100934	Walima sigida yɛrɛ la <	Ou même dans le quartier  <
+1096375	1100934	Walima sigida yɛrɛ la 	Ou même dans le quartier  
 1098878	1101628	Unhun.	Oui.
 1099664	1109344	Ni i lamarala ka ɲɛ dɔ b'a fɔ: «Aa karisa masina denmuso in nin lamaralen do dɛɛ ! »	Si tu es bien éduquée, quelqu'un peut dire : « Ah la fille d'un tel, elle est éduquée de ! »
 1107525	1111553	«An tɛ nin ɲini ka di an denkɛ ma ?»	« On ne va pas chercher celle-là pour notre garçon ? »
-1110010	1112969	I bɛ furu <	Tu te maries <
+1110010	1112969	I bɛ furu 	Tu te maries 
 1111419	1115019	I bɛ se ka taa sigida la.	Tu peux aller au quartier.
-1113874	1117736	Hali ne yɛrɛ min bɛ ka kuma fo i ye nin<	Même moi qui suis en train de te dire ça <
+1113874	1117736	Hali ne yɛrɛ min bɛ ka kuma fo i ye nin	Même moi qui suis en train de te dire ça 
 1116606	1123548	Ne Ayisata Wali Kaloga, ne ka furu kɛra sokɔnɔ furu de ye.	Moi, Aïssata Waly Kaloga, mon mariage a été un mariage endogène.
 1121925	1126488	Bari ne furu la n'tɛnɛmuso den de ma.	J'ai été mariée au fils de ma tante paternelle.
 1126083	1132738	Ne fa ni muso min ye sin kelen min ne furula o denkɛ de ma.	J'ai été mariée au fils de la femme qui a partagé le même sein que mon père.
@@ -562,7 +562,7 @@
 2090121	2098036	Lamɔ ye min ye, u b'o de jira i la tugun.	Ils te montrent la politesse.
 2094741	2104070	Ayiwa i taatɔ filɛ, an t'i dɔn ni dakandenya ye dɛ.	Tu pars maintenant, tu n'es pas une fille maudite !
 2099603	2107691	I taato filɛ, an t'i dɔn ni mɔgɔkɔrɔbadɔgɔya ye dɛ.	Tu ne dois pas perdre respect pour les personnes âgées.
-2103259	2109932	An t"i dɔn ni mɔgɔdalaminɛ ye dɛ.	Tu ne dois pas faire des discussions.
+2103259	2109932	An ti dɔn ni mɔgɔdalaminɛ ye dɛ.	Tu ne dois pas faire des discussions.
 2105465	2113242	I baw y'anw bonya, an ka aw sɔrɔ.	Tes mères nous ont respectées, on vous a eu.
 2108776	2116346	E y'a jiran an k'a fo k'i bɛ se k'i ce bonya.	Tu nous as montré que tu peux respecter ton mari.
 2111810	2118242	O de la, an y'i di balimafuru la.	C'est pourquoi tu as été donné au fils de notre sœur.
@@ -706,9 +706,9 @@
 2664754	2672073	An tɛ u ɲinika.	Nous ne leur demandons pas.
 2666145	2673513	« I y'a bɔ min ? »	« Tu l'as eu où ? »
 2667537	2675319	Aw mara tiɲɛ ?	N'avez-vous pas détruit l'éducation ?
-2669273	2681263	N'i ma se ka jɔ i den ka ɛ-ɛ-ɛ kow kɔrɔ, a kungo kɔrɔ <	Si tu n'as pas pu subvenir aux besoins de ton enfant <
+2669273	2681263	N'i ma se ka jɔ i den ka ɛ-ɛ-ɛ kow kɔrɔ, a kungo kɔrɔ 	Si tu n'as pas pu subvenir aux besoins de ton enfant 
 2675465	2683644	Den bɛ taa ɲini cogo fasɔn wɛrɛ la woo.	L'enfant va chercher d'une autre manière.
-2678059	2687426	Den taalen a ɲini cogo fasɔn wɛrɛ la, n'a nana <	L'enfant en allant chercher d'une autre façon, quand il arrive <
+2678059	2687426	Den taalen a ɲini cogo fasɔn wɛrɛ la, n'a nana 	L'enfant en allant chercher d'une autre façon, quand il arrive 
 2681591	2688854	E ma a ɲinika.	Toi, tu ne lui as pas demandé.
 2683048	2693994	Ɔɔ o de b'a to sini ni sinikɛnɛ tugu a bɛ bɔ a bɛ taa a ɲɔgɔn wɛrɛ ǩɛ. 	C'est pourquoi il sort demain ou après pour aller faire la même.
 2688176	2695624	O ye musomanw ta ye.	ça, c'est pour les filles.
@@ -724,7 +724,7 @@
 2708364	2715497	Nafolo.	La fortune.
 2709499	2716461	Wari.	L'argent.
 2711243	2718848	An ka wari ɲini.	 Cherchons l'argent.
-2713582	2721355	U kɛlen bɛ de sisan <	Ils sont devenus maintenant <
+2713582	2721355	U kɛlen bɛ de sisan 	Ils sont devenus maintenant 
 2715987	2725524	U taa mɔgɔw ka  bolofɛn ntaraki u bolo.	Ils arrachent les biens des personnes de leurs mains.
 2719952	2728777	Kolokan, ɲɛnɛmatali.	De force, une prise de force.
 2722879	2730072	I su tɛ dɛɛ !	Ce n'est pas de ta mort !
@@ -761,7 +761,7 @@
 2800744	2807996	. U bɛ jɔyɔrɔ di u ma.	Ils leur donnent la moyenne
 2801834	2811239	Ni i sɔnna i ka karamɔgɔ la, jɔyɔrɔba bɛ di i ma.	Si tu acceptes ton professeur, on te donne une bonne moyenne.
 2805466	2812599	A bɛ e ɲini.	Il couche avec toi.
-2806641	2815427	N'a ye i ɲini ka cɛnimusoya kɛ ni i ye <	Quand il couche avec toi, en te faisant le rapport sexuel <
+2806641	2815427	N'a ye i ɲini ka cɛnimusoya kɛ ni i ye 	Quand il couche avec toi, en te faisant le rapport sexuel 
 2809429	2817533	Aw bɛ yafa n'maa, kuma n'a fɔcogo de do.	Excusez-moi, c'est la manière de dire.
 2811625	2819372	Ni n'ma fɔ a tɛ faamu.	Si je ne le dis pas, ça ne va pas être compris.
 2813604	2825476	Ni cɛnimusoya tɛmɛna i n'i ka karamɔgɔ cɛ walima i ni ka kalanden cɛ mara bɛ min bilen ?	Où est l'éducation s'il se passe un rapport sexuel entre toi et ton professeur ou entre toi et ton élève ?
@@ -771,10 +771,10 @@
 2825657	2838770	A ka ca ala fɛ n'an bangebagaw ni an kunnajara, karamɔgɔ ninnu b'a fɔ ko oluw ta ye den ye.	Plaît à Dieu si nous les parents si on a de la chance ces enseignants vont dire que ce sont leurs enfants.
 2833091	2842188	Tuma dɔ la karamɔgɔ ninnuw b'a fɔ ko oluw ta tɛ den in ye.	Souvent ces professeurs disent que ce n'est pas leur enfant.
 2836926	2846650	Den bɛna a n'a ba,  a bɛna kɛ a somɔgɔw de kungo ye.	L'enfant et sa mère, ça devient un problème des membres de sa famille.
-2841056	2852436	Den cɛman ninnuw, n'u taara mɔgɔ bolofɛn ntaraki <	Ces garçons, quand ils arrachent les biens des personnes <
+2841056	2852436	Den cɛman ninnuw, n'u taara mɔgɔ bolofɛn ntaraki 	Ces garçons, quand ils arrachent les biens des personnes 
 2846884	2854153	U b'a kɛ su fɛ.	Ils le font pendant la nuit.
 2848317	2855804	U b'a kɛ tile fɛ.	Ils le font durant la journée.
-2849848	2861846	Buna hadama < hadamaden nin k'a bɔ sisan a bɛ komi sɛ an denkɛw bolo.	Ôté la vie humaine, c'est comme ôter la vie d'un poulet pour nos fils.
+2849848	2861846	Buna hadama  hadamaden nin k'a bɔ sisan a bɛ komi sɛ an denkɛw bolo.	Ôté la vie humaine, c'est comme ôter la vie d'un poulet pour nos fils.
 2856387	2865600	Ni min minɛna, o bɛ taa yɔrɔ jumɛn ?	Si on arrête un, où va-t-il ?
 2859572	2867150	I bɛ taa kaso la.	Tu vas en prison.
 2861417	2868815	  E fa ma kaso kɛ.	Ton père n'a pas fait de prison.
@@ -789,21 +789,21 @@
 2891010	2898582	An ka an bolo di ɲɔgɔn ma.	Donnons-nous la main.
 2892692	2900720	An ka kumakan kelen sabati.	Parlons tous de la même voix.
 2895155	2902872	An ka lamɔ di an denw ma.	Donnons l'éducation à nos enfants.
-2897135	2904845	Ni an denw ye lamɔ sɔrɔ <	Si nos enfants ont l'éducation <
+2897135	2904845	Ni an denw ye lamɔ sɔrɔ 	Si nos enfants ont l'éducation 
 2898877	2909654	Hali an filɛ min kɔnɔ, mɔgɔfagaba in, dɔ b'i bɔ a la.	Même ces tueries, dans lesquelles nous, nous trouvons, vont diminuer.
 2904342	2912914	  Denwoloba in, dɔ bɛ bɔ a la.	Ces nombreuses naissances, ça va diminuer.
 2907066	2916391	Den musomanninw filɛ kɛɛ ne filɛbaga ni lamɛnbaga.	Regardez les filles, mes spectateurs et les auditeurs.
 2910509	2922586	U bɛ fini dɔ don k'u bɛ taa kalanyɔrɔ la masaw ɲɛna.	Elles portent certains habits devant les parents qu'elles vont à l'école.
-2917162	2927896	I b'a sɔrɔ npalan min bɛ bila u kɛrɛ la ni u b'u ka kalan kɛ minɛw bila o kɔnɔ<	Tu verras le sac qu'elle porte où elles mettent leurs fournitures <
+2917162	2927896	I b'a sɔrɔ npalan min bɛ bila u kɛrɛ la ni u b'u ka kalan kɛ minɛw bila o kɔnɔ	Tu verras le sac qu'elle porte où elles mettent leurs fournitures 
 2922068	2932163	I b'a sɔrɔ u ye u ka diɲɛdenya fini dɔ ta k'o bila o kɔnɔ.	Tu verras qu'elles sont là-dans l'un de leur habit de libertinage.
 2926285	2936196	Mansa cɛman tɛ a kalaman, mansa musoman tɛ a kalama.	Le père n'est pas au courant, la mère n'est pas au courant.
 2930138	2940403	E ye fini min ye a la ni ye sisan, e b'a fɔ k'a bɛ ka taa kalan yɔrɔ la.	Les habits avec lesquels tu l'as vue, tu te dis qu'elle va à l'école.
 2934355	2942255	Ko nin ye fini suturalen ye.	Que c'est un habit correct.
-2936647	2951498	Nka a mana bɔ k'a yɛlɛma dɔrɔn, du kelen du fila n'a y'a kɔ filɛ k'a ɲɛfilɛ a ɲɛ t'a dɔnbaga la <	Mais quand elle tourne après une ou deux familles, quand elle regarde derrière et qu'elle ne voit pas de connaissance <
+2936647	2951498	Nka a mana bɔ k'a yɛlɛma dɔrɔn, du kelen du fila n'a y'a kɔ filɛ k'a ɲɛfilɛ a ɲɛ t'a dɔnbaga la 	Mais quand elle tourne après une ou deux familles, quand elle regarde derrière et qu'elle ne voit pas de connaissance 
 2945722	2955482	A kan ka taa ni fini min ye kalanyɔrɔ a bɛ o bɔ.	Les habits avec lesquels elle doit aller à l'école, elles les enlèvent.
 2950403	2960016	A ka dijɲɛdenfini, i b'a sɔrɔ o b'a ka npalan kɔnɔ.	Tu verras qu'elle a ses habits de libertinage dans son sac.
 2954260	2962199	A bɛ o ta k'o don a la.	Elle se les met.
-2956811	2966316	Anw minnuw t'a ɲɛdɔn, ni anw bɛ bɔlɔn kɔnɔ <	Nous qui ne le sait pas et qui somment dans la rue <
+2956811	2966316	Anw minnuw t'a ɲɛdɔn, ni anw bɛ bɔlɔn kɔnɔ 	Nous qui ne le sait pas et qui somment dans la rue 
 2960558	2968560	Anw bɛ tila k'a fa ni a ba ɲini.	Nous cherchons après son père et sa mère.
 2962864	2972348	Ne ko woo, ni bɔra u ka so woo a fa n'a ba tun tɛ yen aa ?	Je dis quand celle-là quittait leur maison, son père et sa mère n'étaient ils pas présents ?
 2966480	2975750	Ne filɛbaga ni n' lamɛnbagaw, a kuma bɛ fɔ waa a tɛ fɔ ?	Mes spectateurs et auditeurs, ça se dit ou pas ?
@@ -823,7 +823,7 @@
 3006972	3013940	Jaati.	Oui.
 3007820	3015172	Lamɔ ma tiɲɛ ?	L'éducation n'est-elle pas détruite ?
 3009373	3016652	A tiɲɛ na.	Elle est détruite.
-3011232	3022312	Den cɛman ninnuw, n'u bɛ taa ka taa u ka manamanako ninnuw kɛ <	Les garçons quand ils vont faire leurs bêtises <
+3011232	3022312	Den cɛman ninnuw, n'u bɛ taa ka taa u ka manamanako ninnuw kɛ 	Les garçons quand ils vont faire leurs bêtises 
 3016351	3024487	  I b'a s sɔrɔ dulɔki fila-fila b'u bolo.	Tu verras qu'ils ont deux chemises chacun.
 3018821	3026996	U bɛ fɛn dɔ ta k'o don u ɲɛ la.	Ils prennent quelque chose qu'ils mettent sur le visage.
 3020863	3028561	Ko : «N' kana dɔn.»	Que : « L'on ne me reconnaisse pas. »
@@ -860,7 +860,7 @@
 3093296	3107730	Mɛ i b'a sɔrɔ an fɛ yen so, muso hali ni i ni cɛ bɛ sɛnɛ kɛ ɲɔgɔn fɛ, i b'a sɔrɔ i bɛ tigaforonin dɔ kɛ kɛrɛfɛ.	Tu verras que chez nous même si la femme cultive avec son mari, elle fait petit champ d'arachide à côté.
 3102016	3110492	Walima i bɛ kabaforonin dɔ kɛ kɛrɛfɛ.	Ou tu fais un petit champ de maïs à côté.
 3104479	3112969	Walima i bɛ ganforonin dɔ kɛ kɛrɛfɛ.	Ou tu fais un petit champ de gombo à côté.
-3107212	3118686	Ka lajɛ ni saminya baana ni i yɛrɛ mana  o tigɛ, ni n'ye o feere<	Quand l'hivernage prend fin, quand je fais la récolte et je les vends <
+3107212	3118686	Ka lajɛ ni saminya baana ni i yɛrɛ mana  o tigɛ, ni n'ye o feere	Quand l'hivernage prend fin, quand je fais la récolte et je les vends 
 3112678	3123051	N'bɛ se ka nafan dɔ sɔrɔ n'yɛrɛ ye  ka n'denw ladon.	Je peux avoir des bénéfices pour entretenir mes enfants.
 3117224	3126960	Ka da a kan cɛw tɛ muso dɛmɛn den ladon na, den fɛɛrɛbɔ ninnuw.	Parce que les hommes n'aident pas les femmes dans l'entretien des enfants, leur habillement.
 3121234	3128707	Cɛw  ka koba tɛ o ye.	Ce n'est pas une préoccupation des hommes.
@@ -908,8 +908,8 @@
 3245219	3252693	«Kuma la tiɲɛ tɛ ban.»	«La vérité n'est pas à sens unique. »
 3247099	3258438	«Ko nka e bɛ sɔrɔ wagati min, ko ne ni i ba hakili ma o ye ko an kan ka tɔgɔda i la.»	« Moi et ta mère n'avons pas vu qu'on devrait te donner un nom au moment de ta naissance. »
 3252310	3259458	Unhun.	Oui.
-3253328	3261521	«Ko mɛ aw yɛrɛ bidenw <»	« Vous même les enfants d'aujourd'hui < »
-3255923	3266172	«N'i ye tɔgɔda i den na a yɛrɛ bɛ taa kɛwale min kɛ<»	« Si tu donnes un nom à ton enfant, l'acte qu'il va poser < »
+3253328	3261521	«Ko mɛ aw yɛrɛ bidenw »	« Vous même les enfants d'aujourd'hui  »
+3255923	3266172	«N'i ye tɔgɔda i den na a yɛrɛ bɛ taa kɛwale min kɛ»	« Si tu donnes un nom à ton enfant, l'acte qu'il va poser  »
 3260022	3266650	Unhun.	Oui.
 3260504	3269998	«A yɛrɛ ka kamalenya tɔgɔ a bɛ o de da a la.»	« Il se donne son propre surnom. »
 3263976	3273220	«Ni a ye o da a la diɲɛ bɛɛ b'a weele ni o de ye.»	« S'il nomme ainsi, le monde entier le nomme avec ça. »

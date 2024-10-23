@@ -19,7 +19,7 @@
 44960	47550	[UNDECIPHERED]	ARABIC CITATION
 48240	50870	[UNDECIPHERED]	ARABIC CITATION
 51740	53870	An seli le kɔ ciba sanuman yi kan.	Après avoir prié sur le messager purifié
-54600	56760	Ɛɛ Alah> barikada le kɔ fɛ	Après avoir loué Dieu
+54600	56760	Ɛɛ Alah barikada le kɔ fɛ	Après avoir loué Dieu
 57540	59587	Ɛɛ N Mahamadu Dante	Euh moi, Mahamadou Dante
 59888	61795	N bi aw ɲɛkɔrɔ bi	Je suis devant vous aujourd'hui
 62190	63399	N ti na kuma	Je ne vais pas parler
@@ -48,7 +48,7 @@
 96986	98288	An bɛ jumɛn kan?	Sommes-nous sur quoi ?
 99015	101203	O de ye anw ka seko	Qui est notre capacité
 101392	102939	Ani an ka dɔnko	Et nos connaissances
-103471	105754	An ka>Ani an ka tabiya tigi kɔrɔw	Et nos ancien de nos coutumes
+103471	105754	An kaAni an ka tabiya tigi kɔrɔw	Et nos ancien de nos coutumes
 106216	108103	Minnu yu cɛ siri ni jamanayin na yan	Ceux qui ont travaillé dur dans ce pays.
 108782	111084	Ni u yu seko nu dɔnko bɛlajɛlen kɛ	Qui ont fait tout ce qui était en leur pouvoirs
 111433	113490	Walasa jamanayin bɛ se ka bɔ dingɛ kɔnɔ	Pour que ce pays sorte du trou
@@ -60,7 +60,7 @@
 125821	129085	Ni ya siya min kɔnɔ c'est que sigi de ye a se yen	Quand vous le voyez dans un groupe ethnique, cela signifie qu'ils vivaient parmi eux.
 129639	130866	O kuma na ni ko jara dun	A ce point quand tu dis Diarra
 131827	132865	A bɔra jamu dɔ la	Il est dérivé d'un autre nom
-133581	135336	Komi jaradɔw>jamu dɔ bɔra a la	Comme certains Diarras>d'autres noms en dérivent également.
+133581	135336	Komi jaradɔwjamu dɔ bɔra a la	Comme certains Diarrasd'autres noms en dérivent également.
 136448	136976	Ni ko jara	Quand tu dis Diarra
 138004	139230	Ale bɛ daminɛ jara konɛ de la	Ça commence par Diarra-Kone
 140305	141758	Nka jamu yɛrɛy fɔlɔfɔlɔ	Mais le nom de famille avant tout
@@ -108,7 +108,7 @@
 211076	212850	Ka bɔ Sangara Moriba Kɔnte la	Dérivé de Sangara Moriba Conté
 213481	214198	Ɔɔ Kuma na	Euh parlant
 214924	216112	Ɛɛ O Jara-Kɔnɛ	Eh ce Jara-Kone
-216546	219452	Muya fo>to a fɔra jamuyin bɔra Kɔnɛ la	Qu'est ce qui di> est la raison pour laquelle ils disent que le nom de famille dérive de Kone
+216546	219452	Muya foto a fɔra jamuyin bɔra Kɔnɛ la	Qu'est ce qui di est la raison pour laquelle ils disent que le nom de famille dérive de Kone
 219725	220442	Ka a kɛ Jara ye	De devenir Diarra
 221149	221998	Sababu bola	Le destin en fait partie
 222695	223941	Sabula kunu	Parce qu'hier
@@ -123,11 +123,11 @@
 239939	240901	Sabula kungokɔnɔ	Parce que dans la nature
 241401	243420	Ɛɛ maa tɛ misi den dɔ wara ye	Un humain ne voit pas un bétail comme un lion.
 243542	244637	Nka bakɔrɔ bɛ a dɔn	Mais la vieille mère sait
-245221	247089	Misiri den tɛ jara dɔn bak > wara ye	[Un bétail] ne connaît pas Diarra pour être Bak > Lion
+245221	247089	Misiri den tɛ jara dɔn bak  wara ye	[Un bétail] ne connaît pas Diarra pour être Bak  Lion
 247627	248684	Nka bakɔrɔ bɛ a dɔn	Mais la vieille mère sait
 249080	250250	Ɔɔ kumana Jara-Kɔnɛ	A ce moment Diarra-Kone
 250684	251835	Tɔgɔyin na na	Ce nom est venu
-251995	253108	Ka kɛ> Da la	À faire > nommez-le
+251995	253108	Ka kɛ Da la	À faire  nommez-le
 253532	254702	Ka a kɛ jara ye	Devenir Diarra
 254721	255551	A jamu ye Kɔnɛ	Devenir Diarra
 256419	258363	Nka a yɛrɛ ka kɛ baara kama	Mais pour son propre travail
@@ -166,7 +166,7 @@
 317131	318018	O Jara-Kɔnɛ	Ce Diarra-Kone
 318612	319669	Wagati min na	Au moment
 320140	321857	Ni a na na nin wale ninuw ta	Quand il a adopté ces attitudes
-322715	324017	Yɔrɔ ni m>fa ɲɛna	Quand le père est bon
+322715	324017	Yɔrɔ ni mfa ɲɛna	Quand le père est bon
 324536	325404	Denw bɛ waso ni a ye	Les enfants se vanteront de lui
 325800	326838	Mɔdenw bɛ waso ni a ye	Les petits-enfants se vanteront de lui.
 327149	328149	Bɔkolow bɛ waso ni a ye	les racines se vanteront de lui
@@ -202,12 +202,12 @@
 382508	383848	Ɔɔ kumana o Jara-Kone	À ce moment-là, ce Diarra-Kone
 384461	387386	Ale mɔdenkɛ o de ye Wanasi Jara ye	Son petit-fils est Wanasi Diarra
 388301	389621	O Wanasi Jara	Ce Wanasi Diarra
-389886	391508	O sigila bɔs>busɛn	Il a résidé à Bos>Bousin
+389886	391508	O sigila bɔsbusɛn	Il a résidé à BosBousin
 391749	393334	A ye baara kumabaw kɛ	Il a fait un travail incroyable
 393617	394975	Cɛ kumabaw bɔrala	De grands hommes dérivent de lui
 395579	397070	Sabula a denkɛ folo	Parce que son premier fils
 397532	398928	O de ye Toma Jara ye	C'est lui Toma Diarra
-399532	401608	Ɔɔ kumana Fakɔn Jara bɔro ɛɛ>	Euh A ce moment là Facko Diarra est venu euh>
+399532	401608	Ɔɔ kumana Fakɔn Jara bɔro ɛɛ	Euh A ce moment là Facko Diarra est venu euh
 402457	403797	Fazan Jara bɔra o la	Fazan Diarra dérive de lui
 404391	405052	O kumana	À ce moment
 405193	406287	Fangolo bɔra o la	Fankolo dérive de lui
@@ -271,14 +271,14 @@
 521075	522886	Cɛgana si tɛ dugukolo kan	Il n'y a pas un seul homme célibataire sur cette terre
 523037	524905	Min na na dugukolo san fɛ	Qui est venu sur terre
 525112	527188	Ɔɔ min tamasiɲɛ ma jira	Dont le signe n'a pas été montré
-528226	529980	Ɔ k> O tamasiɲɛyin kama	Oh k> Pour ce signe
+528226	529980	Ɔ k O tamasiɲɛyin kama	Oh k Pour ce signe
 530282	531471	Kodɔnnaw ko	Les devins ont dit
 531735	533546	Aa ko bi den dɔ wolo la yan dɛ	Ah, un enfant est né ici aujourd'hui
 534244	535508	Aa Togola	Ah Togola
 535697	536641	O kɛra ko ye	C'est devenu quelque chose
 537169	539131	Min ye mɔw b'u sigi cogola	Qui a fait bouger les gens dans leur siège
 539716	540867	U nana	Ils sont venus
-541037	542716	Dɔni dɔ la > dɔniw da	Savoir faire la > divination ?
+541037	542716	Dɔni dɔ la  dɔniw da	Savoir faire la  divination ?
 543433	545452	O don o y'a sɔrɔ laturu kow bɛ senna	Ce jour-là, la divination était encore courante
 545490	546811	U nana doniyaw kɛ	Ils sont venus faire de la divination
 547018	548131	Ka lajɛliw kɛ	Faire des observations
@@ -516,7 +516,7 @@
 1253553	1260433	a ye Alikuranɛ don.	Il a maîtrisé le saint Coran.
 1255753	1262583	A kalanne kɔfɛ, 	Après son apprentissage,
 1257648	1264283	u y'a ye minkɛ,	lorsqu'ils l'ont remarqué,
-1259653	1268583	u k'a ma ko: "aa, ko nin ye kabako kɔnin ye.	ils lui dirent que : "ah ! que cela est vraiment étonnant.
+1259653	1268583	u k'a ma ko: aa, ko nin ye kabako kɔnin ye.	ils lui dirent que : ah ! que cela est vraiment étonnant.
 1263710	1271473	Ko: mɔgɔ bɛ nin ɲwanna b'i ka jamana la?	Que l'on peut laisser une telle personne partie de sa contrée comme ça ?
 1266023	1273283	ka na n'a ye ka n'a di maa wɛrɛ ma?	Pour le remettre à un autrui ?
 1268553	1275633	Ɔ, a y'a wele.	Ainsi, il l'appela.
@@ -525,7 +525,7 @@
 1275890	1283083	n'i k'a fɛn wo fɛn ka k'i ye,	peu importe ce que tu désires,
 1277753	1285083	Ala sɔnna, o bɛ kɛ e ye.	 Dieu est d'accord, ça sera fait pour toi.
 1280243	1288373	Aa, a k'o ye jumɛn ye?	Ah ! il demanda que : quelles soient ces deux choses ?
-1283153	1289783	A ko: "a fɔlɔ,	Il répond que le premier,
+1283153	1289783	A ko: a fɔlɔ,	Il répond que le premier,
 1285553	1292083	mansaya,	la royauté,
 1286601	1293483	walima maaɲumanya,	ou bien la bonté divine,
 1288053	1294883	n'o ye walijuya ye.	qui est sainteté.
@@ -548,9 +548,9 @@
 1327653	1335043	Ayi! ba mugan ni duuru tɛ.	Non ! Ce n'est pas cent vingt-cinq mille.
 1329753	1336606	Ba mugan ani naani.	Cent vingt-quatre mille.
 1331436	1338483	Ala y'o bulonda da tugun.	Dieu a fermé ce cercle.
-1333639	1341583	Ɔ, o tuma na, a ko: "i bɛ kɛ mansakɛ ye".	Alors, il lui dit : "tu seras roi".
+1333639	1341583	Ɔ, o tuma na, a ko: i bɛ kɛ mansakɛ ye.	Alors, il lui dit : tu seras roi.
 1336253	1343083	A ko n tɛ dan o ma.	Que je ne me limiterai pas à ça.
-1337661	1344283	A ko: "fara ta",	Il lui demanda : de prendre la pierre,
+1337661	1344283	A ko: fara ta,	Il lui demanda : de prendre la pierre,
 1339053	1345583	a ye fara ta.	il prit la pierre.
 1340553	1347323	A y'a d'a kun.	Il l'a mis sur sa tête.
 1341953	1348883	A k'i bɛ jate kɛ,	Il lui dit de compter,
@@ -599,11 +599,11 @@
 1423253	1429783	a danna tan na.	il s'est limité à dix.
 1425053	1432183	Seko Mukutari Kabiru,	Cheickh Mouktar Kabir,
 1429330	1436883	ɔ, o tuma na, a y'o ye minkɛ,	ainsi, lorsqu'il a vu cela,
-1431648	1439383	a ko: "ayiwa! i dɛsɛra o de la wa?"	il dit : "alors c'est ça ta limite ?"
+1431648	1439383	a ko: ayiwa! i dɛsɛra o de la wa?	il dit : alors c'est ça ta limite ?
 1433953	1441083	tan de la? ko awɔ n dɛsɛra.	À dix ? que oui, c'est ma limite.
 1435941	1442983	A k'a giriyara kojugu.	Il dit que c'était devenu très lourd.
-1437853	1445583	A ko wa "f'i yɛlɛma ko tan,	Il lui dit alors que : "jusqu'à ta dixième descendance,
-1440253	1446883	o bɛ mansaya kɛ".	ils seront tous rois.
+1437853	1445583	A ko wa f'i yɛlɛma ko tan,	Il lui dit alors que : jusqu'à ta dixième descendance,
+1440253	1446883	o bɛ mansaya kɛ.	ils seront tous rois.
 1441652	1450073	Ala sɔnna, danfɛn tɛ se k'a wili.	Dieu l'a accepté, aucune créature ne pourra l'empêcher.
 1445953	1452983	O tuma na, ka tila k'a sigi	Alors l'installer ensuite,
 1448453	1456283	ka na n'a ye Segu ka n'a di Bitɔn ma.	pour venir le remettre à Biton de Ségou.
@@ -687,7 +687,7 @@
 1612820	1620283	aa, fanga bonya na,	ah ! son pouvoir devint large,
 1615853	1622683	fanga kawiriyara.	un pouvoir élargi.
 1618068	1625583	Bamanan kɛ n'a dɔnko bɛ ɲwanna. 	Le bambara est, avec sa connaissance, sa stratégie.
-1620450	1629783	A bɛ to ka f'ale de ma ko: "kɛlɛ sinsan ani maa sinsan".	C'est lui qu'on appelle souvent : "le mur de la guerre et de l'humanisme".
+1620450	1629783	A bɛ to ka f'ale de ma ko: kɛlɛ sinsan ani maa sinsan.	C'est lui qu'on appelle souvent : le mur de la guerre et de l'humanisme.
 1624853	1632783	Kɛlɛ sinsan ani maa sinsan.	Le mur protecteur.
 1627480	1634283	Kɔrɔ b'o fana na. 	Cela a aussi une signification.
 1629041	1636483	Awɔ, ne faw kumana n ye.	Oui, moi, j'ai échangé avec les parents.
@@ -773,9 +773,9 @@
 1817755	1825483	O Farakɔ, a taara sigi yen.	Il s'est installé,
 1821037	1827583	A sigira,	Da a passé sept jours,
 1822961	1830483	Da ye tile wolonfila kɛ,	sans voir Tiètiguiba Danté.
-1824976	1832483	a ɲɛ ma da Cɛtigiba Dantɛ kan.	Il dit que : "les griots de Ségou sont là,
-1827727	1834773	A ko: "Segu jeliw bɛ yan,	mais le griot de mon père n'est pas là".
-1829961	1837683	mɛ ne fa ka jelikɛ tɛ yan".	Il s'agit de Ba Dané, il l'appelait Ba Dané, mon père Dané car il a collaboré avec son père.
+1824976	1832483	a ɲɛ ma da Cɛtigiba Dantɛ kan.	Il dit que : les griots de Ségou sont là,
+1827727	1834773	A ko: Segu jeliw bɛ yan,	mais le griot de mon père n'est pas là.
+1829961	1837683	mɛ ne fa ka jelikɛ tɛ yan.	Il s'agit de Ba Dané, il l'appelait Ba Dané, mon père Dané car il a collaboré avec son père.
 1832436	1841583	N'o ye Ba Danɛ ye, a tun b'a f'a ma Ba Danɛ sabula a n'ale fa de jɛra.	Alors, mais qu'est-ce qui a fait que la chefferie des griots de Ségou,
 1836716	1845683	Ɔ, nka mun ye ɲamakala, Segu jelikuntigiya,	Pourquoi est-elle confiée aux Danté?
 1841213	1851873	bi, u tɛ anw dɔ fɔ ka caya	aujourd'hui, ils ne parlent pas beaucoup de nous
